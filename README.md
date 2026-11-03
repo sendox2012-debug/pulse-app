@@ -171,18 +171,6 @@ REFRESH_MS = 2000    # миллисекунды
 ```
 
 ---
-
-## 🤝 Вклад
-
-PR'ы и issue приветствуются:
-1. Fork репозитория
-2. `git checkout -b feature/твоя-фича`
-3. `git commit -m 'Добавил фичу'`
-4. `git push origin feature/твоя-фича`
-5. Открой Pull Request
-
----
-
 <div align="center">
 
 **Dev: sendo for Arch linux 😉**
