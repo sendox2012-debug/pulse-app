@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PULSE System Monitor
+Comment=Modern neon system monitor
+Exec=pulse
+Icon=/usr/share/icons/hicolor/256x256/apps/pulse.png
+Terminal=false
+Type=Application
+Categories=System;Monitor;Utility;
+Keywords=system;monitor;process;cpu;memory;
